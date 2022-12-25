@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-21T10:54:04 IST" name="Default suite" finished-at="2022-11-21T10:54:11 IST" duration-ms="7004">
+    <groups>
+    </groups>
+    <test started-at="2022-11-21T10:54:04 IST" name="Default test" finished-at="2022-11-21T10:54:11 IST" duration-ms="7004">
+      <class name="Automation.ShadowDomElements.ShadowDomElements">
+        <test-method is-config="true" signature="configBrowser()[pri:0, instance:Automation.ShadowDomElements.ShadowDomElements@367ffa75]" started-at="2022-11-21T10:54:04 IST" name="configBrowser" finished-at="2022-11-21T10:54:06 IST" duration-ms="1692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBrowser -->
+        <test-method is-config="true" signature="init()[pri:0, instance:Automation.ShadowDomElements.ShadowDomElements@367ffa75]" started-at="2022-11-21T10:54:06 IST" name="init" finished-at="2022-11-21T10:54:06 IST" depends-on-methods="Automation.ShadowDomElements.BaseClass.configBrowser" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testGetText_FromShadowDOMElements()[pri:0, instance:Automation.ShadowDomElements.ShadowDomElements@367ffa75]" started-at="2022-11-21T10:54:06 IST" name="testGetText_FromShadowDOMElements" finished-at="2022-11-21T10:54:11 IST" duration-ms="5118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetText_FromShadowDOMElements -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Automation.ShadowDomElements.ShadowDomElements@367ffa75]" started-at="2022-11-21T10:54:11 IST" name="tearDown" finished-at="2022-11-21T10:54:11 IST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Automation.ShadowDomElements.ShadowDomElements -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
